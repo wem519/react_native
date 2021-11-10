@@ -13,7 +13,7 @@ class DiaryComponent extends Component {
   render() {
     return (
       <View style={{flex: 1, alignItems: 'center', justifyContent: 'center'}}>
-        <Text>Diary Screen_</Text>
+        <Text>Diary Screen</Text>
       </View>
     );
   }
